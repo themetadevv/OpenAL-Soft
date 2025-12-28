@@ -1,2 +1,2 @@
-Credits : The Cherno 
-Compile this project yourself, or link the precompiled binary (.lib)
+- Credits : The Cherno 
+- Compile this project yourself, or link the precompiled binary (.lib)
