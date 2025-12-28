@@ -1,4 +1,4 @@
-project "OpenAL-Soft"
+project "openal"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++20"
