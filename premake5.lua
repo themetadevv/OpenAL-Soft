@@ -2,7 +2,7 @@ project "openal"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++20"
-	staticruntime "on"
+	staticruntime "off"
 
 	targetdir ("bin/openal-soft/builds/%{cfg.system}_%{cfg.buildcfg}")
     objdir ("bin/openal-soft/intermediates/%{cfg.system}")
