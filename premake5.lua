@@ -1,10 +1,3 @@
-workspace "test"
-	architecture "x64"
-	configurations {
-		"Debug",
-		"Release"
-	}
-
 project "openal"
 	kind "StaticLib"
 	language "C++"
